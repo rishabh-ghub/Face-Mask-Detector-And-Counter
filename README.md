@@ -39,7 +39,9 @@ No_Mask_Std.csv : Stores names of non-masked faces recognized by system, with Da
 - Validation accuracy: 0.9868
 
 ### PreTrained Model : 
+- Link for downloading the Model : https://drive.google.com/drive/folders/1bh-MMlvRwwhIl78Mqq1KUBzCdWYw_hbC?usp=sharing
 - 'mask_detection.model' trained on the Sequential CNN model (trainin file not uploaded due to copyright issues).
+- Paste this file in the folder.
 
 Note : To run on your self trained model make sure to Edit the code in to read the model in  detect_Mask_webcam.py, Image_Mask_Detection.py files.
 

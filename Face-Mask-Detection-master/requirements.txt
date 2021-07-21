@@ -1,0 +1,11 @@
+tensorflow
+keras
+imutils
+numpy
+opencv-contrib-python
+matplotlib
+scipy
+pandas
+DateTime
+cvlib
+face_recognition

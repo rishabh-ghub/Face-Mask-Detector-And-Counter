@@ -9,7 +9,10 @@ import datetime
 import time
 import os.path
 from os import path
-#   from extract_face import extract_face
+#   from extract_face import e
+####
+
+xtract_face
 # load model
 model = load_model('mask_detection.model')
 
